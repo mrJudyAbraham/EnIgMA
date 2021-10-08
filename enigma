@@ -1,0 +1,4 @@
+#!/bin/sh
+figlet -c -f slant EnIgMA
+echo
+python /home/jdam/cyberweapons/generator.py
