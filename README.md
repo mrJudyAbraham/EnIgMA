@@ -47,4 +47,4 @@ Project is: _in progress_ and why?
 A big thanks to [@ritaly](https://github.com/ritaly) you rock dude, without her README-cheatsheet this project's documentation would have  been a pain in my ass.
 
 ## Contact
-Created by [@_mad_J](https://twitter.com/_mad_J/) - feel free to ping me!
+Created by [@mrJudyAbraham](https://twitter.com/mrJudyAbraham) - feel free to ping me!
