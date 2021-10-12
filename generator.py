@@ -1,5 +1,5 @@
 import random
-from colors import color, red, blue
+#from colors import color, red, blue
 
 lower="abcdefghijklmnopqrstuvwxyz"
 upper="ABCDEFGHIJKLMNOPQRSTUVWXYZ"
@@ -8,9 +8,9 @@ symbols="~!@#$%^&*()_+}=-{:|<>?/.,';[]'"
 
 all=lower+upper+numbers+symbols
 
-length=int(input(blue("REQUIRED LENGTH")+" : "))
+length=int(input("REQUIRED LENGTH : "))
 
 password= "".join(random.sample(all,length))
 
 
-print(blue("NEW PASSWORD")+" : "+red(password))
+print ("NEW PASSWORD"+" : "+password)
